@@ -4,29 +4,29 @@ app = Flask(__name__)
 
 app.config['JSON_SORT_KEYS'] = False
 Naruto = {
-        "status_code" :200,
+        "status_code": 200,
     "poster": "https://wallpapercave.com/wp/wp5875837.jpg",
-    "series":"",
-    "movies":{
-        "Naruto Movie 1":"Ninja Clash in the Land of Snow (2004)",
-        "Naruto Movie 2":"Legend of the Stone of Gelel (2005)",
-        "Naruto Movie 3":"Guardians of the Crescent Moon Kingdom (2006)",
-        "Naruto Shippuden Movie 1":"The Movie (2007)",
-        "Naruto Shippuden Movie 2":"Bonds (2008)",
-        "Naruto Shippuden Movie 3":"The Will of Fire (2009)",
-        "Naruto Shippuden Movie 4":"The Lost Tower (2010)",
-        "Naruto Shippuden Movie 5":"Blood Prison (2011)",
-        "Naruto Shippuden Movie 6":"Road to Ninja (2012)",
-        "Movie1":"The Last: Naruto the Movie (2014)",
-        "Movie2": "Boruto: Naruto the Movie (2015)",
+    "series": "",
+    "movies": {
+        "Naruto_Movie_1": "Ninja Clash in the Land of Snow (2004)",
+        "Naruto_Movie _2": "Legend of the Stone of Gelel (2005)",
+        "Naruto_Movie_3": "Guardians of the Crescent Moon Kingdom (2006)",
+        "Naruto_Shippuden_Movie_1": "The Movie (2007)",
+        "Naruto_Shippuden_Movie_2": "Bonds (2008)",
+        "Naruto_Shippuden_Movie_3": "The Will of Fire (2009)",
+        "Naruto_Shippuden_Movie_4": "The Lost Tower (2010)",
+        "Naruto_Shippuden_Movie_5": "Blood Prison (2011)",
+        "Naruto_Shippuden_Movie_6": "Road to Ninja (2012)",
+        "Movie_1": "The Last: Naruto the Movie (2014)",
+        "Movie_2": "Boruto: Naruto the Movie (2015)",
     },
-        "data":[
+        "data": [
             {
-"id":1,
+        "id": 1,
         "name": "Uzumaki Naruto",
         "image": "https://bit.ly/2XKL7ZZ",
        "history":"Naruto Uzumaki (うずまき ナルト Uzumaki Naruto?) is the main protagonist in the Naruto series created by Masashi Kishimoto. He is a teenage ninja from the fictional village of Konohagakure. The villagers ostracize Naruto because of the Nine-Tailed Demon Fox—a malevolent creature that attacked Konohagakure—sealed in his body. To be recognized, he aspires to become the village's leader, the Hokage.",
-     "relatives" :"Namikaze Minato (father, deceased), Uzumaki Kushina (mother, deceased), Hyuuga Hinata (wife), Uzumaki Boruto (son), Uzumaki Himawari (daughter)",
+     "relatives": "Namikaze Minato (father, deceased), Uzumaki Kushina (mother, deceased), Hyuuga Hinata (wife), Uzumaki Boruto (son), Uzumaki Himawari (daughter)",
      "power_stats":{
          "intelligence": 65,
          "strength": 100,
