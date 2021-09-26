@@ -9,7 +9,7 @@ Naruto = {
     "series": "",
     "movies": {
         "Naruto_Movie_1": "Ninja Clash in the Land of Snow (2004)",
-        "Naruto_Movie _2": "Legend of the Stone of Gelel (2005)",
+        "Naruto_Movie_2": "Legend of the Stone of Gelel (2005)",
         "Naruto_Movie_3": "Guardians of the Crescent Moon Kingdom (2006)",
         "Naruto_Shippuden_Movie_1": "The Movie (2007)",
         "Naruto_Shippuden_Movie_2": "Bonds (2008)",
