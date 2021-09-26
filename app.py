@@ -60,7 +60,7 @@ Naruto = {
 
 @app.route("/")
 def get():
-    return jsonify({'Naruto': Naruto})
+    return jsonify(Naruto)
 
 if __name__ == '__main__':
     app.run(debug=True)
